@@ -21,6 +21,7 @@ var superSkill = prompt("And, if you could either fly or turn invisible, which w
 
 console.log("\n Welcome to Adventureland, " + characterName + "! You are a jolly adventurer who wears a " + faveColor + " hat and can " + superSkill + ". That should be handy!")
 
+console.log("\n Let's have an adventure, shall we? Your first one! Quite an ")
 
 // So, there should be some puzzles and adventures, but they should also involve the variables. Like, one they can pass by flying OR by being invisible, or some that only are available to flyers, etc. And one or two that involve the color of hats. 
 
